@@ -1,0 +1,13 @@
+C:\Users\Marco\Desktop\Estudos VS-21\URItest\URItest\bin\Debug\netcoreapp3.1\URItest.exe
+C:\Users\Marco\Desktop\Estudos VS-21\URItest\URItest\bin\Debug\netcoreapp3.1\URItest.deps.json
+C:\Users\Marco\Desktop\Estudos VS-21\URItest\URItest\bin\Debug\netcoreapp3.1\URItest.runtimeconfig.json
+C:\Users\Marco\Desktop\Estudos VS-21\URItest\URItest\bin\Debug\netcoreapp3.1\URItest.runtimeconfig.dev.json
+C:\Users\Marco\Desktop\Estudos VS-21\URItest\URItest\bin\Debug\netcoreapp3.1\URItest.dll
+C:\Users\Marco\Desktop\Estudos VS-21\URItest\URItest\bin\Debug\netcoreapp3.1\URItest.pdb
+C:\Users\Marco\Desktop\Estudos VS-21\URItest\URItest\obj\Debug\netcoreapp3.1\URItest.csprojAssemblyReference.cache
+C:\Users\Marco\Desktop\Estudos VS-21\URItest\URItest\obj\Debug\netcoreapp3.1\URItest.AssemblyInfoInputs.cache
+C:\Users\Marco\Desktop\Estudos VS-21\URItest\URItest\obj\Debug\netcoreapp3.1\URItest.AssemblyInfo.cs
+C:\Users\Marco\Desktop\Estudos VS-21\URItest\URItest\obj\Debug\netcoreapp3.1\URItest.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Desktop\Estudos VS-21\URItest\URItest\obj\Debug\netcoreapp3.1\URItest.dll
+C:\Users\Marco\Desktop\Estudos VS-21\URItest\URItest\obj\Debug\netcoreapp3.1\URItest.pdb
+C:\Users\Marco\Desktop\Estudos VS-21\URItest\URItest\obj\Debug\netcoreapp3.1\URItest.genruntimeconfig.cache
